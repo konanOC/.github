@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-- 甲南大学オープンキャンパス用のアカウントです
-- 非公式アカウントです（甲南大学の学生が運営）
-
 <!--
 **Here are some ideas to get you started:**
 
